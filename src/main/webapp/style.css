@@ -1,0 +1,93 @@
+@charset "UTF-8";
+body{
+	background-color:white;
+	margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-size: cover;
+    background-position: center;
+    background:RGB(91, 94, 166);
+}
+#header {
+    background-color:white;
+    color:white;
+    text-align:center;
+    padding:5px;
+    height: 70px;
+}
+#line {
+	background-color:black;
+    height: 2px;
+}
+#line_h {
+	background-color:black;
+    width: 2px;
+    float: left;
+}
+.login_btn{
+	margin-right: 30px;
+	margin-left: 100px;
+	background-color: black;
+	color: white;
+}
+#header .logo{
+    width: 150px;
+    height: 75px;
+}
+#header .title_img{
+    padding-right: 300px;
+}
+#header h3{
+    color: black;
+}
+#header h1{
+    color: black;
+}
+#nav {
+    background-color:white;
+    text-align:right;
+    padding:5px;
+    height: 30px;
+}
+#nav a{
+	color:black;
+	
+}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+   padding:5px;	 	 
+}
+
+#busscroller{
+	margin-bottom: 10px;
+}
+#general_info .img_vehicle{
+	padding-top: 10%;
+	padding-left: 10%;
+}
+
+form{
+	width:300px;
+   padding: 20px;
+   margin: 8% auto 0;
+   text-align: center;
+    border-radius: 15px 50px 30px;
+    box-shadow: rgba(0, 0, 0, 1) 0px 22px 70px 4px;
+     background: #fff;
+	
+	
+}
+.inp{
+	margin-top: 10px;
+}
+.login_header{
+	padding-top: 10px;
+}
+.ci{
+	padding-top: 20px;
+	padding-left: 30px;
+}
+
